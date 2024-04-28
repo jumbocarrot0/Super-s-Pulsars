@@ -8,6 +8,7 @@
 	"superAbility":"You may place the planet you removed from the game in any system of your choice. Take up to the same number of ships you sent to the warp from that planet out of the warp, and place them on it to establish a colony. Afterwards, remove this card from the game.",
 	"superTimingPhase":"Any Phase",
 	"superTimingPlayer":"As Any Player",
+	"special":"When you gain this card, you must announce to the table that you did.",
 	"alertLevel":"",
 	"altTimeline":false,
 	"version":"Praw Flare Generator v0.1"
@@ -18,7 +19,7 @@
 	"wildAbility":"You may prevent AI from looking at any of your hidden elements (such as your hand). They look at other hidden elements instead.",
 	"wildTimingPhase":"Alliance",
 	"wildTimingPlayer":"As Any Player",
-	"superAbility":"As a main player, before encounter cards are selected, you may force your opponent to show you an encounter card from their hand at random.",
+	"superAbility":"As a main player, before encounter cards are selected, you may force your opponent to show you an encounter card from their hand at random. You may only play this card once per encounter.",
 	"superTimingPhase":"Planning",
 	"superTimingPlayer":"Main Player Only",
 	"alertLevel":"",
