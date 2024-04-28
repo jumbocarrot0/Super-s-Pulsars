@@ -29,10 +29,10 @@
 {
 	"name": "Alchemist",
 	"short": "",
-	"wildAbility":"After Alchemist uses its power, you may take the card it discarded from the appropriate discard pile (if it's still there).",
+	"wildAbility":"After Alchemist ***uses*** its power, you may take the card it discarded from the appropriate discard pile (if it's still there).",
 	"wildTimingPhase":"Any Phase",
 	"wildTimingPlayer":"As Any Player",
-	"superAbility":"When using your power, you may take cards from a deck that contains the discarded card type. Look through the deck and take any matching card. Afterwards, shuffle the deck. If there are no cards that match your card's card type in a deck, you take no cards and retrieve your ship back from the warp after shuffling the deck.",
+	"superAbility":"When ***using*** your power, you may take cards from a deck that contains the discarded card type. Look through the deck and take any matching card. If there are no cards that match your card's card type in a deck, you take no cards and retrieve your ship back from the warp. Either way, shuffle the deck afterwards.",
 	"superTimingPhase":"Any Phase",
 	"superTimingPlayer":"As Any Player",
 	"alertLevel":"",
