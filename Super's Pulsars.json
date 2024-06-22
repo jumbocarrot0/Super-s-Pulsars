@@ -648,7 +648,7 @@
 	"wildTimingPlayer":"Ally Only",
 	"superAbility":"You may see one main player's encounter card before deciding whether to ***use*** your power. You can only play this card if you can ***use*** your power.",
 	"superTimingPhase":"Planning",
-	"superTimingPlayer":"Not Main Player",
+	"superTimingPlayer":"Varies",
 	"alertLevel":"",
 	"altTimeline":true,
 	"version":"Praw Flare Generator v0.1"
