@@ -1230,7 +1230,7 @@
 {
 	"name": "Hurtz",
 	"short": "",
-	"wildAbility":"If Hurtz doesn't offer to lease its ships to you, you may force it to ***use*** its power to lease you the amount of ships you have in the encounter (or up to that amount if it has less). Then, it gains 3 tokens (unless the power was zapped).",
+	"wildAbility":"If Hurtz doesn't offer to lease its ships to you, you may force it to use its power to lease you the amount of ships you have in the encounter (or up to that amount if it has less). In exchange, it gains 3 tokens instead of the normal amount.",
 	"wildTimingPhase":"Planning Reveal",
 	"wildTimingPlayer":"Main Player or Ally",
 	"superAbility":"You may cancel the lease of any or all ships that weren't leased this encounter.",
