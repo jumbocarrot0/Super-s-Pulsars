@@ -1451,7 +1451,7 @@
 {
 	"name": "Loser",
 	"short": "",
-	"wildAbility":"As a main player, if the Loser is your opponent, you may play this card before an upset is declared. Loser cannot declare an upset if it has no choice but to play a non-attack card.",
+	"wildAbility":"As a main player, if the Loser is your opponent, you may play this card before an upset is declared. Loser cannot declare an upset unless it has an attack card it can play.",
 	"wildTimingPhase":"Planning",
 	"wildTimingPlayer":"Main Player Only",
 	"superAbility":"You may ***use*** your power in any encounter, regardless of your involvement.",
