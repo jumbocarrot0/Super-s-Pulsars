@@ -251,7 +251,7 @@
 {
 	"name": "Booster",
 	"short": "",
-	"wildAbility":"As a main player, if Booster is on the opposing side and ***uses*** its power, you may force it to discard as many cards from its hand as they sent into the encounter regardless of the amount.",
+	"wildAbility":"As a main player, if Booster is on the opposing side and ***uses*** its power, you may force it to discard as many cards from its hand as the amount of ships it sent into the encounter regardless of the amount.",
 	"wildTimingPhase":"Alliance",
 	"wildTimingPlayer":"Main Player Only",
 	"superAbility":"When you ***use*** your power, if you send one or two ships into the encounter, you may draw one card to add to your hand, and then discard one card. If you send 3 or more ships into the encounter, you may draw cards equal to half the amount of ships you sent into the encounter (rounded down).",
