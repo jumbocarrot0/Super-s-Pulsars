@@ -1542,8 +1542,8 @@
 {
 	"name": "Maven",
 	"short": "",
-	"wildAbility":"As a main player, when Maven ***uses*** its power, you may keep any or all of the facedown cards you played during planning and/or take the card Maven discards.",
-	"wildTimingPhase":"Planning",
+	"wildAbility":"As a main player, when Maven ***uses*** its power, you may keep any or all of the facedown cards you played during planning.\nWhen Maven discards a card for its power, you may take that card.",
+	"wildTimingPhase":"Planning Reveal",
 	"wildTimingPlayer":"Main Player Only",
 	"superAbility":"You may ***use*** your power as an ally.",
 	"superTimingPhase":"Planning",
