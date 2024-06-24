@@ -2916,7 +2916,7 @@
 	"wildAbility":"You may play this card when Zombie attempts to make a deal to prevent it from freeing other players’ ships from the warp as part of a deal.",
 	"wildTimingPhase":"Reveal",
 	"wildTimingPlayer":"As Any Player",
-	"superAbility":"When you discard your hand to draw a new one, play this card. After drawing your new hand, you may return all of the cards you discarded as well as this card to your new hand.",
+	"superAbility":"When you discard your hand to draw a new one, you may play this card. After drawing your new hand, you may return any or all of the cards you discarded (along with this card) to your new hand.",
 	"superTimingPhase":"Any Phase",
 	"superTimingPlayer":"As Any Player",
 	"alertLevel":"",
