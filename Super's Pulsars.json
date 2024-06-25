@@ -907,7 +907,7 @@
 	"wildAbility":"As a main player, if the Fodder is your opponent, you may force it to discard 2 or less cards (it chooses the amount) through its power.",
 	"wildTimingPhase":"Reveal",
 	"wildTimingPlayer":"Main Player Only",
-	"superAbility":"When you ***use*** your power, you may discard any or all non-attack encounter cards in your hand. Each of them adds 3 to your total.",
+	"superAbility":"When you ***use*** your power, you may discard any or all encounter cards in your hand without a numerical value. Each of them adds 3 to your total.\nIn addition, you may treat any encounter cards with a numerical value as attack cards for the purposes of your power.",
 	"superTimingPhase":"Reveal",
 	"superTimingPlayer":"Main Player Only",
 	"alertLevel":"",
