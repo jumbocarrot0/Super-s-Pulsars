@@ -1259,7 +1259,7 @@
 	"wildAbility":"You may treat Industrialist's stack as a part of its hand for game effects you invoke.",
 	"wildTimingPhase":"Any Phase",
 	"wildTimingPlayer":"As Any Player",
-	"superAbility":"You may add a negotiate card to your stack as part of your power. On later encounters, if you lose by playing an attack card and have a negotiate card in your stack, you may play this card to take compensation.",
+	"superAbility":"You may add a negotiate card to your stack as part of your power. On later encounters, if you lose by playing an attack card and have a negotiate card in your stack, you may take compensation by playing this card.",
 	"superTimingPhase":"Resolution",
 	"superTimingPlayer":"Main Player Only",
 	"alertLevel":"",
