@@ -659,7 +659,7 @@
 	"wildAbility":"When Dervish ***uses*** its power, you may have the power treat you like a player not involved in the encounter.",
 	"wildTimingPhase":"Alliance",
 	"wildTimingPlayer":"Main Player or Ally Only",
-	"superAbility":"When you ***use*** your power, before any hands are passed, you may play this card and set aside 3 other cards from your hand facedown. After everything is passed around, you return all 4 cards into your new hand.",
+	"superAbility":"When you ***use*** your power, before any hands are passed, you may play this card and set aside up to 3 other cards from your hand facedown. After everything is passed around, you return all set aside cards into your new hand.",
 	"superTimingPhase":"Alliance",
 	"superTimingPlayer":"Main Player Only",
 	"alertLevel":"",
