@@ -2850,9 +2850,9 @@
 	"wildAbility":"As a main player, you may force Wormhole not to ally against you with more than 2 ships.",
 	"wildTimingPhase":"Alliance",
 	"wildTimingPlayer":"Main Player Only",
-	"superAbility":"As an ally, you may ***use*** your power to commit all of your ships in the warp to the encounter. You may exceed the hyperspace gate limit this way.",
-	"superTimingPhase":"Alliance",
-	"superTimingPlayer":"Ally Only",
+	"superAbility":"When you ***use*** your power, you may commit all of your ships in the warp to the encounter. You may exceed the hyperspace gate limit this way.",
+	"superTimingPhase":"Launch Alliance",
+	"superTimingPlayer":"Offense or Ally Only",
 	"alertLevel":"",
 	"altTimeline":false,
 	"version":"Praw Flare Generator v0.1"
