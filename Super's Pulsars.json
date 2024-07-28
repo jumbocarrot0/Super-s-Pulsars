@@ -1947,6 +1947,19 @@
 	"version":"Praw Flare Generator v0.1"
 },
 {
+	"name": "Pentaform",
+	"short": "",
+	"wildAbility":"At the start of any encounter, you may reorder Pentaform's life stages. When you lose this card, they return to their order beforehand. You may only play this card once per encounter.",
+	"wildTimingPhase":"Any Phase",
+	"wildTimingPlayer":"As Any Player",
+	"superAbility":"At the start of any player’s turn, you may place a cosmic token next to the player whose turn it is. Then, you may either discard your life stages and redo your game setup or gain access to all your life stages up to and including your current stage until you take back the token.\nThe token returns at the start of that player’s next turn. You cannot play this card again until it does. This token does not interact with any other effects (e.g. Pack Rat, Warrior).",
+	"superTimingPhase":"Start Turn",
+	"superTimingPlayer":"As Any Player",
+	"alertLevel":"",
+	"altTimeline":false,
+	"version":"Praw Flare Generator v0.1"
+},
+{
 	"name": "Perfectionist",
 	"short": "",
 	"wildAbility":"If Perfectionist ***uses*** its power when you try to take cards at random from its hand, you may look through Perfectionist’s reject pile and pick every card you take from there.",
