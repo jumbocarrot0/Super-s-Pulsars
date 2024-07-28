@@ -2495,7 +2495,7 @@
 {
 	"name": "Symbiote",
 	"short": "",
-	"wildAbility":"When Symbiote is collecting compensation from you, you may have each of its ships without special characteristics count as half a ship for compensation. (The total is rounded up.)",
+	"wildAbility":"When Symbiote is collecting compensation from you, you may have each of its normal ships count as half a ship for compensation. (The total is rounded up.)",
 	"wildTimingPhase":"Resolution",
 	"wildTimingPlayer":"As Any Player",
 	"superAbility":"During any regroup phase, if there is an unused player color, you may add a ship of that color to one of your colonies. It is treated as a normal ship of your color (even if you lose this card). You may not switch colors until you exhaust all unused ships of one color.",
