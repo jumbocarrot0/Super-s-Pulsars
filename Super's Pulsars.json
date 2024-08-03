@@ -11,6 +11,7 @@
 	"special":"When you gain this card, you must announce to the table that you did.",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize":32,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -83,7 +84,7 @@
 	"short": "",
 	"wildAbility":"When Angler ***uses*** its power to ask you for a specific card, you may force it to show you a copy of the card from its own hand. If it does not have one, it must show you a card from its hand and ask you for that instead.",
 	"wildTimingPhase":"Planning",
-	"wildTimingPlayer":"Main Player or Ally",
+	"wildTimingPlayer":"Main Player or Ally Only",
 	"superAbility":"When you ***use*** your power, if you get the card you asked for (from the player's hand or the deck), you may ***use*** your power again.",
 	"superTimingPhase":"Planning",
 	"superTimingPlayer":"Varies",
@@ -99,7 +100,7 @@
 	"wildTimingPlayer":"Main Player Only",
 	"superAbility":"When you ***use*** your power to throw a celebration party, you may draw as many cards as the amount of players on your side (including yourself).",
 	"superTimingPhase":"Resolution",
-	"superTimingPlayer":"Main Player or Ally",
+	"superTimingPlayer":"Main Player or Ally Only",
 	"alertLevel":"",
 	"altTimeline":false,
 	"version":"Praw Flare Generator v0.1"
@@ -155,6 +156,7 @@
 	"special":"If you are looking at a group of cards excluding your own hand (Aristocrat forming its starting hand, Barbarian looting cards etc.) including this one, you cannot select it.",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize": 28,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -251,10 +253,10 @@
 {
 	"name": "Booster",
 	"short": "",
-	"wildAbility":"As a main player, if Booster is on the opposing side and ***uses*** its power, you may force it to discard as many cards from its hand as the amount of ships it sent into the encounter regardless of the amount.",
+	"wildAbility":"As a main player, if Booster is on the opposing side and uses its power, you may force it to discard cards from its hand even if it sent 3 or more ships.",
 	"wildTimingPhase":"Alliance",
 	"wildTimingPlayer":"Main Player Only",
-	"superAbility":"When you ***use*** your power, if you send one or two ships into the encounter, you may draw one card to add to your hand, and then discard one card. If you send 3 or more ships into the encounter, you may draw cards equal to half the amount of ships you sent into the encounter (rounded down).",
+	"superAbility":"When you ***use*** your power, if you send one or two ships into the encounter, you may draw one card to add to your hand, and then discard one card. If you send more ships into the encounter, you may draw cards equal to half the amount of ships you sent into the encounter (rounded down).",
 	"superTimingPhase":"Launch Alliance",
 	"superTimingPlayer":"Offense or Ally Only",
 	"alertLevel":"",
@@ -298,6 +300,7 @@
 	"superTimingPlayer":"Main Player or Ally Only",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize": 32,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -416,6 +419,7 @@
 	"special":"You cannot eclipse Chrysalis. If Chrysalis isn't in the game, you may discard this card to get one pulsar card of the player whose turn it is. If any player has it in hand or on their alien sheet, they must give it to you. Otherwise, look through the cosmic/reward deck and discard piles, the unused pulsar deck, and its discard pile. If you are unable to find it, you do not discard this card. After getting the pulsar or failing to do so, shuffle all the decks you looked through to find it.",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize": 24,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -566,7 +570,7 @@
 	"short": "",
 	"wildAbility":"When Cudgel ***uses*** its power on you, you may lose the amount of ships you had in the encounter instead.",
 	"wildTimingPhase":"Resolution",
-	"wildTimingPlayer":"Main Player or Ally",
+	"wildTimingPlayer":"Main Player or Ally Only",
 	"superAbility":"You may ***use*** your power as an ally.",
 	"superTimingPhase":"Resolution",
 	"superTimingPlayer":"Ally Only",
@@ -633,11 +637,12 @@
 	"wildAbility":"You may force Delegator to not delegate you in such a way that you'll no longer gain what you would've for winning the encounter. This takes alien powers into account.",
 	"wildTimingPhase":"Resolution",
 	"wildTimingPlayer":"Main Player or Ally Only",
-	"superAbility":"Once per encounter, when the outcome of the encounter is determined, if you ***used*** your power, you may force the encounter to be replayed from the point right before you delegated them, all cards that were played after that point return to players' hands. If you choose to delegate again, at least one of the main players must be different from before.",
+	"superAbility":"Once per encounter, when the outcome of the encounter is determined, if you ***used*** your power, you may force the encounter to be replayed from the point right before you delegated them, all cards that were played after that point return to players' hands. If you choose to delegate again, at least one of the chosen main players must be different.",
 	"superTimingPhase":"Reveal",
 	"superTimingPlayer":"As Any Player",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize": 32,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -1069,6 +1074,7 @@
 	"superTimingPlayer":"As Any Player",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize":33,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -1232,7 +1238,7 @@
 	"short": "",
 	"wildAbility":"If Hurtz doesn't offer to lease its ships to you, you may force it to use its power to lease you the amount of ships you have in the encounter (or up to that amount if it has less). In exchange, it gains 3 tokens instead of the normal amount.",
 	"wildTimingPhase":"Planning Reveal",
-	"wildTimingPlayer":"Main Player or Ally",
+	"wildTimingPlayer":"Main Player or Ally Only",
 	"superAbility":"You may cancel the lease of any or all ships that weren't leased this encounter.",
 	"superTimingPhase":"Any Phase",
 	"superTimingPlayer":"As Any Player",
@@ -1368,6 +1374,7 @@
 	"superTimingPlayer":"Varies",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize": 28,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -1676,11 +1683,12 @@
 	"wildAbility":"At the start of any encounter you may force Miser to pick between its hand and hoard. For the rest of the encounter, it can only play cards from one of the given sources, not both. If it must select an encounter card from its horde when there is none, it has to draw a new one. If Miser's power is zapped or lost, it can play cards from its hand normally.",
 	"wildTimingPhase":"Regroup",
 	"wildTimingPlayer":"As Any Player",
-	"superAbility":"Whenever you receive one or more cards for your hand you may add any to your hoard by taking an equal amount of cards from your hoard to your hand.",
+	"superAbility":"Whenever you receive one or more cards for your hand you may swap any or all of them with cards in your horde.",
 	"superTimingPhase":"Any Phase",
 	"superTimingPlayer":"As Any Player",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize": 33,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -1782,7 +1790,7 @@
 	"wildAbility":"You may prevent Negator from playing a negation on you if you are not a main player.",
 	"wildTimingPhase":"Any Phase",
 	"wildTimingPlayer":"Not Main Player",
-	"superAbility":"When a player chooses not to do an action that you could negate (e.g. choosing ships, ***using*** an optional power), you may play the appropriate negation to force them to do that action. This includes forcing players to do actions (such as forcing them to ally when invited or forcing Cyborg to play an artifact, flare or reinforcement from its sheet) that would directly make them subject to a negation.",
+	"superAbility":"When a player chooses not to do an action that you could negate (e.g. choosing ships, ***using*** an optional power), you may play the appropriate negation to force them to do that action. This includes forcing players to do actions (such as forcing them to ally when invited or forcing Cyborg to play a card from its sheet) that would directly make them subject to a negation.",
 	"superTimingPhase":"Any Phase",
 	"superTimingPlayer":"As Any Player",
 	"alertLevel":"",
@@ -1840,6 +1848,7 @@
 	"special":"If you don't have access to the Oligarch power, you may discard this card to zap Oligarch's power as it attempts to ***use*** it. This is treated like a Cosmic Zap but this card isn't treated like an artifact card. (You may also eclipse it normally.)",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize": 27,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -1853,6 +1862,7 @@
 	"superTimingPlayer":"Main Player Only",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize": 28,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -1879,6 +1889,7 @@
 	"superTimingPlayer":"Main Player Only",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize": 32,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -1957,6 +1968,7 @@
 	"superTimingPlayer":"As Any Player",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize": 28,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -2147,11 +2159,12 @@
 	"wildAbility":"When Reborn ***uses*** its power, you may force it to only draw one card for each group of ships it loses to the warp or only discard one card for each instance of it retrieving ships from the warp as appropriate.",
 	"wildTimingPhase":"Any Phase",
 	"wildTimingPlayer":"As Any Player",
-	"superAbility":"Each time you lose one or more ships to the warp, you may draw a flare from the unused flare deck. (You may draw cards for those ships as normal.) Each time you retrieve ships from the warp, you may discard your hand and draw a new one. (You may discard the new cards you drew through your power.)",
+	"superAbility":"Each time you lose one or more ships to the warp, you may draw a flare from the unused flare deck (in addition to cards from the deck). Each time you retrieve ships from the warp, you may discard your hand and draw a new one. (You may discard the new cards you drew through your power.)",
 	"superTimingPhase":"Any Phase",
 	"superTimingPlayer":"As Any Player",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize": 33,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -2162,7 +2175,7 @@
 	"wildTimingPlayer":"As Any Player",
 	"superAbility":"As a main player or ally, you may discard your Reincarnator alien sheet and become your incarnation permanently. You may search the unused pulsar deck and its discard pile for your new alien's pulsar, taking it if you can find it. Afterwards, shuffle the pulsar deck and remove this card from the game.",
 	"superTimingPhase":"Resolution",
-	"superTimingPlayer":"Main Player or Ally",
+	"superTimingPlayer":"Main Player or Ally Only",
 	"alertLevel":"",
 	"altTimeline":false,
 	"version":"Praw Flare Generator v0.1"
@@ -2186,11 +2199,12 @@
 	"wildAbility":"When you draw cards or retrieve ships from the warp, you may prevent Remora from ***using*** its power in response.",
 	"wildTimingPhase":"Any Phase",
 	"wildTimingPlayer":"As Any Player",
-	"superAbility":"You may ***use*** your power whenever someone receives one or more cards from any deck for themselves (e.g. tech, space station, unused flare). You draw one card from the same deck and use it for the same purpose (adding it to your hand, placing it in your play area etc.).\nIn addition, when you ***use*** your power normally, you may choose whether you draw a card from the deck or retrieve a ship from the warp.",
+	"superAbility":"You may ***use*** your power whenever someone receives one or more cards from any deck for themselves. You draw one card from the same deck and use it for the same purpose (adding it to your hand, placing it in your play area etc.).\n\nIn addition, when you ***use*** your power normally, you may choose whether you draw a card from the deck or retrieve a ship from the warp.",
 	"superTimingPhase":"Any Phase",
 	"superTimingPlayer":"As Any Player",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize": 31,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -2568,6 +2582,7 @@
 	"superTimingPlayer":"Offense Only",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize": 27,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -2683,7 +2698,7 @@
 	"wildTimingPlayer":"Main Player Only",
 	"superAbility":"You may multiply the amount of compensation and rewards you receive by the number of ships you have in the encounter.",
 	"superTimingPhase":"Resolution",
-	"superTimingPlayer":"Main Player or Ally",
+	"superTimingPlayer":"Main Player or Ally Only",
 	"alertLevel":"",
 	"altTimeline":false,
 	"version":"Praw Flare Generator v0.1"
@@ -2694,11 +2709,12 @@
 	"wildAbility":"As a main player, if the Visionary is your opponent and you have the card it specified, you may abort the encounter. If you are the offense, your turn ends. If Visionary is the offense, it gets to land on your planet. (Your ships coexist on the planet.) Allies return their ships to their colonies.",
 	"wildTimingPhase":"Planning",
 	"wildTimingPlayer":"Main Player Only",
-	"superAbility":"When you ***use*** your power, you may specify two different encounter cards. If your opponent has either, they must play one of them (as long as they aren't prevented by another player).",
+	"superAbility":"When you ***use*** your power, you may specify two different encounter cards. If your opponent has either, they must play one of them (as long as another player doesn’t prevent them).",
 	"superTimingPhase":"Planning",
 	"superTimingPlayer":"Varies",
 	"alertLevel":"",
 	"altTimeline":false,
+	"fontSize": 33,
 	"version":"Praw Flare Generator v0.1"
 },
 {
@@ -2875,7 +2891,7 @@
 	"short": "",
 	"wildAbility":"You may prevent Wrack from ***using*** its power when you have to play a card (like when you select your encounter card).",
 	"wildTimingPhase":"Any Phase",
-	"wildTimingPlayer":"Main Player or Ally",
+	"wildTimingPlayer":"Main Player or Ally Only",
 	"superAbility":"When you ***use*** your power, you may force the opposing player to send as many ships into the warp as they previously did through your power (or Super flare) this encounter.",
 	"superTimingPhase":"Any Phase",
 	"superTimingPlayer":"Main Player or Ally Only",
