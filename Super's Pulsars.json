@@ -2814,7 +2814,7 @@
 	"wildAbility":"As a main player, if the Whirligig is your opponent and it ***uses*** its power, before your hands are mixed, you may choose how the cards will be returned (Even Steven, As Is, Switcheroo).",
 	"wildTimingPhase":"Planning",
 	"wildTimingPlayer":"Main Player Only",
-	"superAbility":"You may ***use*** your power as an ally. You mix your hand with the opposing main player.",
+	"superAbility":"You may ***use*** your power as an ally. You mix your hand with the opposing main player's.",
 	"superTimingPhase":"Planning",
 	"superTimingPlayer":"Ally Only",
 	"alertLevel":"",
