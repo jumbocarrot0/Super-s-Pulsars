@@ -2866,7 +2866,7 @@
 	"wildAbility":"You may force Worm to only re-aim the hyperspace gate at another planet in the targeted system.",
 	"wildTimingPhase":"Reveal",
 	"wildTimingPlayer":"As Any Player",
-	"superAbility":"When you ***use*** your power, you may re-aim the hyperspace gate at a planet where the offense has a colony.",
+	"superAbility":"When you ***use*** your power, you may re-aim the hyperspace gate at a planet even if the offense already has a colony there.",
 	"superTimingPhase":"Reveal",
 	"superTimingPlayer":"Varies",
 	"alertLevel":"",
