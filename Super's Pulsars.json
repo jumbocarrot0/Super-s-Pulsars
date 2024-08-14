@@ -2929,7 +2929,7 @@
 {
 	"name": "Zilch",
 	"short": "",
-	"wildAbility":"At any time, you may look at the destiny card on Zilch's sheet. Then, give this card to the Zilch. You may not tell anybody anything about Zilch's ordained player for the rest of the game.",
+	"wildAbility":"At any time, you may look at the destiny card on Zilch's sheet. Then, give this card to the Zilch. You may not reveal the identity of Zilch's ordained player in any way for the rest of the game.",
 	"wildTimingPhase":"Any Phase",
 	"wildTimingPlayer":"As Any Player",
 	"superAbility":"If the ordained player wins the game alone, the win is ignored and instead you win alone.",
