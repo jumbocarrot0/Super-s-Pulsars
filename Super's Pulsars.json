@@ -703,7 +703,7 @@
 	"wildAbility":"As a main player, if you would have won the encounter when Diplomat ***uses*** its power, you may force it to only attempt a deal with your opponent. You and your allies proceed normally as the winning side.",
 	"wildTimingPhase":"Reveal",
 	"wildTimingPlayer":"Main Player Only",
-	"superAbility":"Whenever other players attempt to make a deal, for any reason, you may become a participant. The Wrack Super flare cannot make you lose ships if you're not the main player opposing it.",
+	"superAbility":"Whenever other players attempt to make a deal, for any reason, you may become a participant.",
 	"superTimingPhase":"Any Phase",
 	"superTimingPlayer":"As Any Player",
 	"alertLevel":"",
