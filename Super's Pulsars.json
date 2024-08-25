@@ -371,7 +371,7 @@
 {
 	"name": "Changeling",
 	"short": "",
-	"wildAbility":"When you are a main player and your opponent is the Changeling, you may have Changeling swap with another player of your choice instead of you. You must pick a player with a tradeable alien sheet if possible.",
+	"wildAbility":"When you are a main player and your opponent is the Changeling, you may have Changeling swap with another player of your choice instead of you. You must pick a player with a tradeable alien sheet if possible. Otherwise, Changeling draws a card.",
 	"wildTimingPhase":"Destiny",
 	"wildTimingPlayer":"Main Player Only",
 	"superAbility":"When you ***use*** your power, you may swap seats instead of alien powers. You each get the other player's hand, power(s), ships, system, etc. You keep this card for your new hand.",
