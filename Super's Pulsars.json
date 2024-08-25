@@ -2772,7 +2772,7 @@
 {
 	"name": "Warhawk",
 	"short": "",
-	"wildAbility":"As a main player, if the Warhawk is your opponent, if you revealed a negotiate card, and if you lost the encounter or failed to make a deal, you may collect compensation.",
+	"wildAbility":"As a main player, if the Warhawk is your opponent and if you revealed a negotiate card, you may collect compensation if you lose the encounter or fail to make a deal.",
 	"wildTimingPhase":"Resolution",
 	"wildTimingPlayer":"Main Player Only",
 	"superAbility":"When you ***use*** your power to change your negotiate card, you may change it into an attack 40 (instead of an attack 00 or a morph).",
