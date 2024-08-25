@@ -2408,7 +2408,7 @@
 	"wildAbility":"As the offense, if the Sneak is your opponent, you may play this card immediately after encounter cards are revealed. Sneak may only ***use*** its power if it loses by 10 or more.",
 	"wildTimingPhase":"Reveal",
 	"wildTimingPlayer":"Offense Only",
-	"superAbility":"You may ***use*** your power as the offense. You establish a colony on a planet in the defense's home system.",
+	"superAbility":"You may ***use*** your power as the offense (even if the encounter does not result in losing one of your home colonies). You establish a colony on a planet in the defense's home system.",
 	"superTimingPhase":"Resolution",
 	"superTimingPlayer":"Offense Only",
 	"alertLevel":"",
