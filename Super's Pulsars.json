@@ -1226,7 +1226,7 @@
 	"wildAbility":"Whenever Hunger ***uses*** its power to take cards from you, you may force it to take your entire hand.",
 	"wildTimingPhase":"Start Turn",
 	"wildTimingPlayer":"As Any Player",
-	"superAbility":"When ***using*** your power, you may look through the hand(s) of your target(s) and pick the card(s) you want to take.",
+	"superAbility":"When ***using*** your power at the start of your turn, you may take up to two cards from each player. Each card taken may be kept, discarded, returned, or given to any other player.",
 	"superTimingPhase":"Start Turn",
 	"superTimingPlayer":"As Any Player",
 	"alertLevel":"",
