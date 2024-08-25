@@ -2130,7 +2130,7 @@
 {
 	"name": "Quartermaster",
 	"short": "",
-	"wildAbility":"Whenever you gain cards as rewards, you may take them at random from the group of cards Quartermaster can deliver. Afterwards, Quartermaster deals the remaining cards to the other players that gained rewards (if any) as per its power.",
+	"wildAbility":"Whenever you gain cards as rewards, you may take them at random from the group of cards Quartermaster can deliver. Afterwards, Quartermaster deals the remaining cards to the other players that gained rewards (if any) as per its power. The cards you take must match what you announced, both in terms of quantity and source.",
 	"wildTimingPhase":"Any Phase",
 	"wildTimingPlayer":"As Any Player",
 	"superAbility":"When you ***use*** your power, you decide what kind or kinds of rewards each player receives (instead of them announcing it to you).",
