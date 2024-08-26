@@ -2574,7 +2574,7 @@
 {
 	"name": "Tortoise",
 	"short": "",
-	"wildAbility":"Anytime during Tortoise's final turn, if you are fulfilling a victory condition, you may play this card to immediately win the game. Any assets belonging to you (including ones that are captured by effects like Pack Rat) besides your planets with foreign colonies are removed from the game and you and your color is no longer considered in the game. Tortoise's turn continues without you being a participant. If any planet in your system becomes empty, it is removed from the game. If your system has no planets, it ceases to exist. Give this card to the Tortoise after use.",
+	"wildAbility":"Anytime during Tortoise's final turn, if you are fulfilling a victory condition, you may play this card to immediately win the game. Any assets belonging to you (including ones that are captured by effects like Pack Rat) besides your planets with foreign colonies are removed from the game and you and your color are no longer considered in the game. Tortoise's turn continues without you being a participant. If any planet in your system becomes empty, it is removed from the game. If your system has no planets, it ceases to exist. Give this card to the Tortoise after use.",
 	"wildTimingPhase":"Any Phase",
 	"wildTimingPlayer":"Not Offense",
 	"superAbility":"After your “final turn” ends, if you are not one of the winners, you may gain 8 rewards, discard this card, and take a second “final turn”.",
