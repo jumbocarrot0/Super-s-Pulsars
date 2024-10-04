@@ -1601,7 +1601,7 @@
 {
 	"name": "Mesmer",
 	"short": "",
-	"wildAbility":"You may prevent Mesmer from zapping your power through its power.",
+	"wildAbility":"You may prevent Mesmer from targeting you or a card you are playing with an artifact through its power.",
 	"wildTimingPhase":"Any Phase",
 	"wildTimingPlayer":"As Any Player",
 	"superAbility":"You may ***use*** your power to play a wild flare as any other wild flare.",
