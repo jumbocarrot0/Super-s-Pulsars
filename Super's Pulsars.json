@@ -1950,7 +1950,7 @@
 	"wildAbility":"You may force Peddler to establish a colony on any planet not in their system where you have a colony as if you offered it in a deal to take any or all cards from its shop.",
 	"wildTimingPhase":"Alliance",
 	"wildTimingPlayer":"As Any Player",
-	"superAbility":"When you ***use*** your power, you may sell any number of cards from your shop and/or your hand. You may also sell tech cards you own this way. If someone buys such a tech card, treat it as if they got it in a deal with you.",
+	"superAbility":"When you ***use*** your power, you may sell any number of cards from your shop and/or your hand. You may also sell tech cards you own this way. If someone buys such a tech card, treat it as if they got it in a deal with you. Any cards sold from your hand are considered facedown.",
 	"superTimingPhase":"Alliance",
 	"superTimingPlayer":"Not Main Player",
 	"alertLevel":"",
