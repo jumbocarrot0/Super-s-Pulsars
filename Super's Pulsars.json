@@ -1069,7 +1069,7 @@
 	"wildAbility":"As a main player, after alliances are formed, if the Greenhorn is not on your side, you may prevent it from playing a card that it normally couldn't.",
 	"wildTimingPhase":"Alliance",
 	"wildTimingPlayer":"Main Player Only",
-	"superAbility":"You may activate (play, discard, reveal etc.) any card or effect that allows you to effectively zap something to cancel and discard any one card that was just played or revealed. If the encounter or an alien power is now unplayable then an appropriate replacement is drawn or played (drawing a new hand if necessary).",
+	"superAbility":"You may use any effect that would cancel or zap something in order to cancel and discard any one card that was just played or revealed. If the encounter or an alien power is now unplayable then an appropriate replacement is drawn or played (drawing a new hand if necessary).",
 	"superTimingPhase":"Any Phase",
 	"superTimingPlayer":"As Any Player",
 	"alertLevel":"",
