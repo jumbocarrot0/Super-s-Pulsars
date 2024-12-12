@@ -1228,7 +1228,7 @@
 	"wildTimingPlayer":"As Any Player",
 	"superAbility":"When ***using*** your power at the start of your turn, you may take up to two cards from each player. Each card taken may be kept, discarded, returned, or given to any other player.",
 	"superTimingPhase":"Start Turn",
-	"superTimingPlayer":"As Any Player",
+	"superTimingPlayer":"Offense Only",
 	"alertLevel":"",
 	"altTimeline":false,
 	"version":"Praw Flare Generator v0.1"
