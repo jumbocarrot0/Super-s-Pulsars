@@ -1934,7 +1934,7 @@
 {
 	"name": "Patriot",
 	"short": "",
-	"wildAbility":"You may prevent Patriot from offering you a card. It may offer a card to another player.",
+	"wildAbility":"When Patriot ***uses*** its power, you may force it to either offer you a card or offer a card to any player besides you.",
 	"wildTimingPhase":"Any Phase",
 	"wildTimingPlayer":"As Any Player",
 	"superAbility":"When ***using*** your power, you may offer two cards (instead of one), either to the same player or to two different players. If you offer them to the same player, they accept or reject both together.",
