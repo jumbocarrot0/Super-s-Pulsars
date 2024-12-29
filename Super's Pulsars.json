@@ -2029,7 +2029,7 @@
 	"wildAbility":"When Pickpocket ***uses*** its power, you may prevent it from taking a card from your hand. It may take a card from another player instead. If it can't, you can't play this card.",
 	"wildTimingPhase":"Any Phase",
 	"wildTimingPlayer":"As Any Player",
-	"superAbility":"When ***using*** your power, you may take a card from any player whose system you have a colony in.",
+	"superAbility":"When ***using*** your power, treat any player whose system you have a colony in as a player who has a foreign colony in your system.",
 	"superTimingPhase":"Any Phase",
 	"superTimingPlayer":"As Any Player",
 	"alertLevel":"",
