@@ -1753,7 +1753,7 @@
 	"superAbility":"Your ships’ value is also multiplied for rewards and compensation.",
 	"superTimingPhase":"Resolution",
 	"superTimingPlayer":"Main Player or Ally Only",
-	"special":"When Multitude tries to ***use*** its power, it may discard this card to zap its power. (This is in addition to being able to discard it normally.)",
+	"special":"If you have access to the Multitude power, when you try to ***use*** your power, you may discard this card to zap your power. (This is in addition to being able to discard it normally.)",
 	"alertLevel":"",
 	"altTimeline":false,
 	"version":"Praw Flare Generator v0.1"
