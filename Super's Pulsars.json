@@ -1618,7 +1618,7 @@
 	"wildAbility":"As a main player, if Micron would send ships to the opposing side, you may force it to only send one.",
 	"wildTimingPhase":"Launch Alliance",
 	"wildTimingPlayer":"Main Player Only",
-	"superAbility":"When you ***use*** your power, you may have each of your ships be worth 4 for encounter totals (instead of 2 or 3).",
+	"superAbility":"When you ***use*** your power, you may have your ships count for double for the purpose of encounter totals. This effect can only double values related to your power use (but includes your super).",
 	"superTimingPhase":"Alliance",
 	"superTimingPlayer":"Main Player or Ally Only",
 	"alertLevel":"",
