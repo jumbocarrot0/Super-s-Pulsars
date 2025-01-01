@@ -730,7 +730,7 @@
 	"wildTimingPhase":"Planning",
 	"wildTimingPlayer":"Not Main Player",
 	"superAbility":"When using your power, you may choose not to discard any or all of your encounter cards.\nYou may also keep any or all of the encounter cards you receive through your power.",
-	"superTimingPhase":"Planning",
+	"superTimingPhase":"Planning Reveal",
 	"superTimingPlayer":"Main Player Only",
 	"alertLevel":"",
 	"altTimeline":false,
