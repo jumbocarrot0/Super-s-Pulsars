@@ -529,7 +529,7 @@
 {
 	"name": "Crusher",
 	"short": "",
-	"wildAbility":"When a crushed stack you control is sent to the warp, you may release the ships under it. The released ships remain in place and the crusher ship returns to this sheet.",
+	"wildAbility":"When a crushed stack you control is sent to the warp, you may release the ships under it. The released ships remain in place and the crusher ship returns to Crusher's sheet.",
 	"wildTimingPhase":"Any Phase",
 	"wildTimingPlayer":"As Any Player",
 	"superAbility":"When you ***use*** your power as a main player, you may crush all the opposing ships in the encounter into the same stack. The stack is controlled by your opponent and counts as a single ship of their color.",
